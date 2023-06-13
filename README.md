@@ -1,6 +1,6 @@
 # Artículos Publicados
 
-* Tame Jacobo, Adrian. (Spring 2019). Método de conjunto activo para problemas de optimización cuadráticos [Active Set Method for Quadratic Optimization Problems]. Laberintos e Infinitos, Issue 49, 20-24. Link.
+* Tame Jacobo, Adrian. (Spring 2019). Método de conjunto activo para problemas de optimización cuadráticos [Active Set Method for Quadratic Optimization Problems]. Laberintos e Infinitos, Issue 49, 20-24. [Link](https://github.com/AdrianTJ/Laberintos_Articulos_ATJ/blob/main/N49_ATJ.pdf). 
 
 * Tame Jacobo, Adrian. Cordova Lopez, Santiago. (Fall 2018). Métodos Numéricos para la solución de Problemas de Programación Lineal: Puntos Interiores [Numerical Methods for the Solution of Linear Programming Problems: Interior Point Method]. Laberintos e Infinitos, Issue 47, 34-42. Link.
 
