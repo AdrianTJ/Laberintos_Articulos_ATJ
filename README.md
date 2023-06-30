@@ -1,4 +1,4 @@
-# Artículos Publicados
+# Artículos Publicados / Published Articles
 
 * Tame Jacobo, Adrian. (Spring 2019). Método de conjunto activo para problemas de optimización cuadráticos [Active Set Method for Quadratic Optimization Problems]. Laberintos e Infinitos, Issue 49, 20-24. [Link](https://github.com/AdrianTJ/Laberintos_Articulos_ATJ/blob/main/N49_ATJ.pdf). 
 
